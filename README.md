@@ -9,6 +9,7 @@ This app was a POC for learning
   - local filemanagment
   - interacting with the camera
   - using listviews
+  - working with a local DB
   
 ![image](https://user-images.githubusercontent.com/17427626/112527253-254e3480-8da3-11eb-9bbb-c5a0d29ed8b1.png)
 
